@@ -1,0 +1,9 @@
+{
+"": "https://turbo.build/schema.json",
+"pipeline": {
+"dev": {
+"dependsOn": ["^dev"],
+"cache": false
+}
+}
+}
