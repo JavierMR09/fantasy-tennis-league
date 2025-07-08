@@ -1,4 +1,4 @@
-c// apps/api/index.js
+// apps/api/index.js
 require('dotenv').config();
 const express      = require('express');
 const cookieParser = require('cookie-parser');
